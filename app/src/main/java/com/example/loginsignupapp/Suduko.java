@@ -6,7 +6,7 @@ enum Levels
 }
 
 class Suduko {
-    private Levels lv;
+    private Levels lv;;
     private int time;
     private int AveregeTime;
     private int gamesstarted;
